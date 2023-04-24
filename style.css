@@ -1,0 +1,24 @@
+
+body{
+    background-color: black;
+}
+
+h1{
+    text-transform: uppercase;
+    font-size: 3rem;
+}
+
+.ryangosling{
+    border: 5px solid white;
+    width: 100%;
+}
+
+
+div{
+    color: white;
+    width: 50%;
+    margin-top: 100px;
+    margin-left: 25%;
+    text-align: center;
+    font-family: 'Libre Baskerville', serif;
+}
